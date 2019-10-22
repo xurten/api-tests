@@ -1,0 +1,8 @@
+﻿// Main class for http operations
+HttpClient
+// Http data with status
+HttpResponseMessage
+// For json conersions
+JsonConvert
+// Provides HTTP content based on a string
+StringContent
